@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <a href="https://github.com/Mumtaj-A/Mumtaj-A/blob/main/mumtaj.svg">
+  <a href="mumtaj.svg">
     <img src="ritesh.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
