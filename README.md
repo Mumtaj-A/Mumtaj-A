@@ -1,3 +1,16 @@
+<div style="width: 100%;">
+  <a href="https://github.com/toxicboi99/toxicboi99/blob/e77af1568ebf2923554f3e303ca868e5d17f1afe/ritesh.svg">
+    <img src="ritesh.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+<main class="container">
+<p>Hello 👋 I'm</p>
+<section class="animation">
+<div class="first"><div>Ritesh Narayan Shah</div></div>
+<div class="second"><div>Web Developer</div></div>
+<div class="third"><div>WordPress Expert</div></div>
+</section>
+</main>
 - 👋 Hi, I’m @Mumtaj-A
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
