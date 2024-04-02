@@ -6,7 +6,7 @@
 <main class="container">
 <p>Hello 👋 I'm</p>
 <section class="animation">
-<div class="first"><div>Ritesh Narayan Shah</div></div>
+<div class="first"><div>Mumtaj Ali</div></div>
 <div class="second"><div>Web Developer</div></div>
 <div class="third"><div>WordPress Expert</div></div>
 </section>
