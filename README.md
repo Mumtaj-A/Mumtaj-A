@@ -4,11 +4,7 @@
   </a>
 </div>
 <main class="container">
-<p>Hello 👋 I'm</p>
-<section class="animation">
-<div class="first"><div>Mumtaj Ali</div></div>
-<div class="second"><div>Web Developer</div></div>
-<div class="third"><div>WordPress Expert</div></div>
+
 </section>
 </main>
 <h1 align="center">Hi , I'm Mumtaj-A</h1>
