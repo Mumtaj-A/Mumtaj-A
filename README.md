@@ -8,6 +8,8 @@
 <h1 align="center" style="color:blue;">Hi , I'm Mumtaj-A</h1>
 <h3 align="center" style="color:grey;">A passionate developer from Nepal</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaj-a&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaj-a" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mumtaj-ali-03865328b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mumtaj ali" height="30" width="40" /></a>
