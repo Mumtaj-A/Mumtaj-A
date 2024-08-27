@@ -5,8 +5,8 @@
 </div>
 
 </main>
-<h1 align="center" style="color: rgb(57, 17, 238);">Hi , I'm Mumtaj-A</h1>
-<h3 align="center" style="color:olivedrab">A passionate developer from Nepal</h3>
+<h1 align="center" style="color: blue;">Hi , I'm Mumtaj-A</h1>
+<h3 align="center" style="color:grey">A passionate developer from Nepal</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
