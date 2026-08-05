@@ -102,13 +102,6 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mumtaj-A&theme=tokyo-night" />
-
-</p>
 
 ## 📫 Contact Me
 
