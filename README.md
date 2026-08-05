@@ -43,7 +43,7 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 </a>
 
 <a href="https://facebook.com/ali.mumtaz.338658" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+  <img src=src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" />
 </a>
 
 </p>
