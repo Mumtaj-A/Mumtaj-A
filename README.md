@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="800" alt="Coder GIF" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Coder GIF" />
 
 # Hi 👋, I'm Mumtaj Ali
 
@@ -134,18 +134,7 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 - Git & GitHub
 - Docker & Linux
 
----
-
-## 📚 Currently Learning
-
-- Advanced TypeScript
-- Node.js Architecture
-- System Design
-- Salesforce Commerce Cloud (SFCC)
-- Cloud Technologies
-
----
-
+-
 ## 💼 Open to Opportunities
 
 - Frontend Development
@@ -156,43 +145,11 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mumtaj-A&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaj-A&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Mumtaj-A&theme=tokyonight" />
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mumtaj-A&theme=tokyo-night" />
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Mumtaj-A/Mumtaj-A/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 </p>
 
