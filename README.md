@@ -42,13 +42,7 @@ Passionate about building modern web applications, e-commerce platforms, and sca
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-<a href="https://facebook.com/ali.mumtaz.338658" target="_blank">
-  <img src=src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" />
-</a>
-
 </p>
-
----
 
 ## 💻 Programming Languages
 
@@ -58,7 +52,6 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 
 </p>
 
----
 
 ## 🎨 Frontend Development
 
@@ -116,34 +109,6 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,photoshop" />
 
 </p>
-
----
-
-## 🏆 Tech Stack
-
-- C & C++
-- HTML5 & CSS3
-- JavaScript & TypeScript
-- PHP & Laravel
-- Python
-- Node.js & Express.js
-- React.js & Next.js
-- WordPress
-- Salesforce Commerce Cloud (SFCC)
-- MySQL, PostgreSQL & MongoDB
-- Git & GitHub
-- Docker & Linux
-
--
-## 💼 Open to Opportunities
-
-- Frontend Development
-- Backend Development
-- Full-Stack Development
-- Web Development
-- E-Commerce Development
-
----
 
 ## 📈 Contribution Graph
 
