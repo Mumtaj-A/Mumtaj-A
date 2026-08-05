@@ -200,7 +200,7 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 
 ## 📫 Contact Me
 
-- 📧 your-email@example.com
+- 📧 alimumtaj@132.com
 - 🌍 Nepal
 
 ---
