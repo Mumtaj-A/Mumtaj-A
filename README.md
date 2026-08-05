@@ -28,7 +28,6 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 - ⚡ Passionate about clean code and performance optimization
 - 🚀 Always exploring new technologies and frameworks
 
----
 
 ## 🌐 Connect with Me
 
@@ -61,7 +60,6 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 
 </p>
 
----
 
 ## ⚙️ Backend Development
 
@@ -70,8 +68,6 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 
 </p>
-
----
 
 ## 🛒 CMS & E-Commerce
 
@@ -90,8 +86,6 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 
 </p>
 
----
-
 ## 🗄️ Databases
 
 <p align="center">
@@ -99,8 +93,6 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 
 </p>
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -117,8 +109,6 @@ Passionate about building modern web applications, e-commerce platforms, and sca
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mumtaj-A&theme=tokyo-night" />
 
 </p>
-
----
 
 ## 📫 Contact Me
 
